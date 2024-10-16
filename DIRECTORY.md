@@ -1222,6 +1222,9 @@
   * [Tabu Search](searches/tabu_search.py)
   * [Ternary Search](searches/ternary_search.py)
 
+## Send Email
+  * [Send Email](send_email/send_email.py)
+
 ## Sorts
   * [Bead Sort](sorts/bead_sort.py)
   * [Binary Insertion Sort](sorts/binary_insertion_sort.py)
